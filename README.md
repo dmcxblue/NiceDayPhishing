@@ -23,7 +23,7 @@ To make python feasable to our needs we have to consider this:
 
 A compiled portable version of python will give us enough for execution such as the following:
 
-![python]](R&D%20Images/python1.png)
+![python](R&D%20Images/python1.png)
 
 We encounter the issue that some Modules are missing when trying to go beyond to executing Win32 apis now the challenge is to:
 - Compile a portable version with the needed modules
